@@ -1,0 +1,2 @@
+Utilizando * se puede agregar solo los archivos que tengan una extencion especifica
+
